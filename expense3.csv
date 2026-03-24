@@ -1,0 +1,32 @@
+Date,Category,Sub-Category ,Amount,Payment Mode
+01-01-2023,Grocery,Grocery,30,Cash
+02-01-2023,Food,Restaurant,890,UPI
+04-01-2023,123,Zomato,257,Cash
+06-01-2023,Essentials,Diary,120,UPI
+06-01-2023,Essentials,Perfume,1500,Cash
+09-01-2023,Grocery,Fruits and Veggies,456,Cash
+10-01-2023,Bills,House Rent,16000,UPI
+10-01-2023,Grocery,Tomato KetchUp,70,UPI
+12-01-2023,Food,Chai,15,UPI
+15-01-2023,Essentials,Salt and Sugar,50,Cash
+17-01-2023,Grocery,Chocolate,100,UPI
+17-01-2023,Food,Restaurant,780,Card
+18-01-2023,Essentials,Food Oil,120,Cash
+18-01-2023,Food,Zomato,230,UPI
+19-01-2023,Grocery,Milk,26,UPI
+20-01-2023,Essentials,Shampoo,780,UPI
+20-01-2023,Essentials,Lunch Box,890,Cash
+21-01-2023,Clothes,Dress,1000,Cash
+22-01-2023,Clothes,Dress,1890,UPI
+23-01-2023,Grocery,Bread and Milk,56,Cash
+24-01-2023,Food,Fruits and Veggies,530,Cash
+26-01-2023,Food,Chai,10,UPI
+26-01-2023,Grocery,Maggi,140,UPI
+27-01-2023,Food,Zomato,300,UPI
+27-01-2023,Food,Chai,10,UPI
+28-01-2023,Essentials,Bedsheets,1025,Cash
+29-01-2023,Bills,Mobile ,1650,UPI
+29-01-2023,Grocery,Daal,150,Cash
+30-01-2023,Bills,Cylinder,1074,UPI
+,,,,
+,,,,
