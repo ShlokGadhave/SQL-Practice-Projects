@@ -31,8 +31,4 @@ To build strong SQL query writing skills and demonstrate practical data analysis
 ## 🛠 Tools Used
 
 * MySQL
-* VS Code
 
----
-
-⭐ This repository is part of my journey to become a **Data Analyst**.
